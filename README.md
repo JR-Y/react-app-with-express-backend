@@ -1,5 +1,5 @@
 # react-app-with-express-backend
-create-react-app with express / server
+create-react-app with express server
 
 This is a template for a new "Create-react-app" with an express initialization.
 
